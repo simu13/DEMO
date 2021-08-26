@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">DEMO</string>
+    <string name="_2_3k_followers">
+        <br>
+        2.3K \n
+        </br>
+        <br>
+         Followers\n
+      </br>
+    </string>
+    <string name="_50_artworks">
+        <br>
+          50 \n
+        </br>
+        <br>
+          50 Artworks\n
+      </br>
+    </string>
 </resources>
